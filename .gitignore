@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/InterviewQuestions
+/ArraySumSeparatorTests/obj
+/InterviewQuestions/obj
+/ArraySumSeparatorTests/bin/Debug/netcoreapp3.1
+/InterviewQuestions/bin/Debug/netcoreapp3.1
+/PangramTests/bin/Debug/net5.0
+/PangramTests/obj
+/Pangram/obj
+/Pangram/bin/Debug/net5.0
+/ArraySumSeparator/bin/Debug/netcoreapp3.1
+/ArraySumSeparator/obj/Debug/netcoreapp3.1
+/ArraySumSeparator/obj
