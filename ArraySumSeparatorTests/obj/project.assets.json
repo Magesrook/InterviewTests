@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "ArraySumSeparator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ArraySumSeparator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArraySumSeparator.dll": {}
+        }
       }
     }
   },
@@ -4618,11 +4628,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "ArraySumSeparator/1.0.0": {
+      "type": "project",
+      "path": "../ArraySumSeparator/ArraySumSeparator.csproj",
+      "msbuildProject": "../ArraySumSeparator/ArraySumSeparator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "C:\\Users\\uschu14\\source\\repos\\Magesrook\\ArraySumSeparator\\InterviewQuestions\\ArraySumSeparator.csproj",
+      "ArraySumSeparator >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
       "nunit >= 3.12.0"
@@ -4655,8 +4670,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\uschu14\\source\\repos\\Magesrook\\ArraySumSeparator\\InterviewQuestions\\ArraySumSeparator.csproj": {
-              "projectPath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\ArraySumSeparator\\InterviewQuestions\\ArraySumSeparator.csproj"
+            "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\ArraySumSeparator\\ArraySumSeparator.csproj": {
+              "projectPath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\ArraySumSeparator\\ArraySumSeparator.csproj"
             }
           }
         }
@@ -4702,16 +4717,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\uschu14\\source\\repos\\Magesrook\\ArraySumSeparator\\InterviewQuestions\\ArraySumSeparator.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\ArraySumSeparator\\InterviewQuestions\\ArraySumSeparator.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

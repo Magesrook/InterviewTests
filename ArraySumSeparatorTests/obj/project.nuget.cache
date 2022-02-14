@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "V6l2wXhQ82sa6O5PB80NnC0Tmw8NRLD5lSnKvDhIbRraId/AO+0ANhP4nDB+1A/2l7LCMM9XBtd5V3zE0bjV2Q==",
-  "success": false,
+  "dgSpecHash": "olpCQ8/Yt+2q9NnOutP8/NrwpsN/TWrejwSrEQwnfz6H1HE03Zu/CkJC24FR/8KgZYUxB5Gb66ibwowlY1u/BQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\ArraySumSeparatorTests\\ArraySumSeparatorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uschu14\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
@@ -68,15 +68,5 @@
     "C:\\Users\\uschu14\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\uschu14\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\uschu14\\source\\repos\\Magesrook\\ArraySumSeparator\\InterviewQuestions\\ArraySumSeparator.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\ArraySumSeparator\\InterviewQuestions\\ArraySumSeparator.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
