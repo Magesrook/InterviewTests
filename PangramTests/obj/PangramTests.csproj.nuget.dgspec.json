@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\PangramTests\\PangramTests.csproj": {}
+    "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\PangramTests\\PangramTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\PangramTests\\PangramTests.csproj": {
+    "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\PangramTests\\PangramTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\PangramTests\\PangramTests.csproj",
+        "projectUniqueName": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\PangramTests\\PangramTests.csproj",
         "projectName": "PangramTests",
-        "projectPath": "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\PangramTests\\PangramTests.csproj",
+        "projectPath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\PangramTests\\PangramTests.csproj",
         "packagesPath": "C:\\Users\\uschu14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\PangramTests\\obj\\",
+        "outputPath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\PangramTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uschu14\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\Pangram\\Pangram.csproj": {
-                "projectPath": "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\Pangram\\Pangram.csproj"
+              "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\Pangram\\Pangram.csproj": {
+                "projectPath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\Pangram\\Pangram.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\Pangram\\Pangram.csproj": {
+    "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\Pangram\\Pangram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\Pangram\\Pangram.csproj",
+        "projectUniqueName": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\Pangram\\Pangram.csproj",
         "projectName": "Pangram",
-        "projectPath": "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\Pangram\\Pangram.csproj",
+        "projectPath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\Pangram\\Pangram.csproj",
         "packagesPath": "C:\\Users\\uschu14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\Pangram\\obj\\",
+        "outputPath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\Pangram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uschu14\\AppData\\Roaming\\NuGet\\NuGet.Config",

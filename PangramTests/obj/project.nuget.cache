@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GT07tHWIbTg95C1SOBLCDTJU1+qlLEwG0tbSm3i9OmHvmzN2Pgpj5j/QV1bSM6xv73s9He/cmkoB5o+VKyzV/g==",
+  "dgSpecHash": "pwIWTevg07OWYYWXc251VRmtv60bRKPbmAuUpG2hz/MVhBwNqWQUeACdbwXiNeKiM9wlqfRUVo6mTwFLamDiIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uschu14\\Source\\Repos\\InterviewQuestions\\PangramTests\\PangramTests.csproj",
+  "projectFilePath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\PangramTests\\PangramTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uschu14\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\uschu14\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

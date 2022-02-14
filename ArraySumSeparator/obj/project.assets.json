@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uschu14\\source\\repos\\InterviewQuestions\\ArraySumSeparator\\ArraySumSeparator.csproj",
+      "projectUniqueName": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\ArraySumSeparator\\ArraySumSeparator.csproj",
       "projectName": "ArraySumSeparator",
-      "projectPath": "C:\\Users\\uschu14\\source\\repos\\InterviewQuestions\\ArraySumSeparator\\ArraySumSeparator.csproj",
+      "projectPath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\ArraySumSeparator\\ArraySumSeparator.csproj",
       "packagesPath": "C:\\Users\\uschu14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uschu14\\source\\repos\\InterviewQuestions\\ArraySumSeparator\\obj\\",
+      "outputPath": "C:\\Users\\uschu14\\source\\repos\\Magesrook\\InterviewTests\\ArraySumSeparator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uschu14\\AppData\\Roaming\\NuGet\\NuGet.Config",
